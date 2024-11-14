@@ -4,10 +4,10 @@
 # sudo_users can be obtained from https://t.me/userinfobot
 
 [pyrogram]
-api_id = "23940130"                                                      # required
-api_hash = "4d717a6f888e37b7ebde0ace80cd22c6"                       # required
-bot_token = "7658008772:AAFzp8NhZ6HwDYgLs_AR-y2HGJ2ye16Bl3c"                  # either bot_token or session_string is required
-session_string = "BQFtTCIAaflWmDN-XRsCdWb7sNUddtl8-xhwK4-MH-gsDzeXIq6EhIDSguxELFmu-sHID4n9ONpU5aBq3fxLyMbgG-IWYrbdKUcMQTwQf_YaDZGos7wpckqlAmvhSyu5c8c5HoBn3fzd1J48XlIQH7KKd1sGT5JBONn-_ToViNy_QL-rMotssoyFCBAH-7bSOat2NvvSI_6DiIuQ-0QKNLgtoou8xASYogefCoHla9l37OIktD56_G9FG_hkinD_QpMalfyL3yYRj5cgO_L6--6Cz9_KGAMrWf8GSUyfqBzu1icEC8R_YqsHbeDa9fJiZXPYK15E2Y6mUUlk8UbVBvFQR25H7AAAAAE81sz9AA" # either bot_token or session_string is required
+api_id = "23130"                                                      # required
+api_hash = "4d71e80cd22c6"                       # required
+bot_token = "765800Ls_AR-y2HGJ2ye16Bl3c"                  # either bot_token or session_string is required
+session_string = "hSyu5c8c5HoBn3fzd1J48XlIQH7KKd1sGT5JBONn-_ToViNy_QL-rMotssoyFCBAH-7bSOat2NvvSI_6DiIuQ-0QKNLgtoou8xASYogefCoHla9l37OIktD56_G9FG_hkinD_QpMalfyL3yYRj5cgO_L6--6Cz9_KGAMrWf8GSUyfqBzu1icEC8R_YqsHbeDa9fJiZXPYK15E2Y6mUUlk8UbVBvFQR25H7AAAAAE81sz9AA" # either bot_token or session_string is required
 sudo_users = [5315677437]                                 # optional
 
 
